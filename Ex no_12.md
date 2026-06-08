@@ -1,5 +1,6 @@
 # EX 12 C program to check whether the given number is prime or not using function without return type and with arguments.
 ## DATE:
+08.06.2026
 ## AIM:
 To write a C program to check whether the given number is prime or not using function without return type and with arguments.
 
