@@ -1,5 +1,6 @@
 # EX 11 C Program to convert a given decimal value to binary using function without arguments with return type.
 ## DATE:
+08.06.2026
 ## AIM:
 To write a C Program to convert a given decimal value to binary using function without arguments with return type.
 
